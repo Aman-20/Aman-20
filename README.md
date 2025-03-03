@@ -7,8 +7,8 @@
   
 # 🛠️ Technologies & Tools
 
-- Programming Languages: Python, JavaScript, C, C++
-- Web Development: HTML, CSS, React, Node.js
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, React, Node.js, Express
 - Databases: MySQL, MongoDB
 - Tools: Git
 - Cloud: AWS
